@@ -32,5 +32,5 @@ class Student
         )
         SQL
     DB[:conn].execute(sql) 
-    SQL
+    
 end
